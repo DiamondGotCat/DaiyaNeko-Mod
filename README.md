@@ -16,11 +16,10 @@ Please include the [URL](https://github.com/DiamondGotCat/DaiyaNeko-Mod) of this
 Modification of this mod is permitted, but publication or distribution of the modified file is prohibited.
 
 ## Notes
-1. This mod is currently in beta.
-2. If you create a world with the mod installed, you will get a warning. This warning is due to Minecraft applying the data packs that are in this mod.
-3. The warning in point 1 is that if you have no other mods in the game, this mod is recognized as an experimental feature. You can use elements of this mod by creating a world as is.
-4. When you exit a world and enter a world a second time, you will get a warning similar to the warning in Note 1. In this case, too, follow the instructions in Note 2.
-5. The developer cannot be held responsible (and cannot be held liable) for any problems caused by this mod.
-6. Most of the elements of this mod were created from the suggestions of my diamond cat friends.
-7. This mod was made with game balance in mind, but some people may find the game balance broken. It is recommended to use separate save data.
-8. This page will be updated in the future. Please remember that precautions may change.
+1. If you create a world with the mod installed, you will get a warning. This warning is due to Minecraft applying the data packs that are in this mod.
+2. The warning in point 1 is that if you have no other mods in the game, this mod is recognized as an experimental feature. You can use elements of this mod by creating a world as is.
+3. When you exit a world and enter a world a second time, you will get a warning similar to the warning in Note 1. In this case, too, follow the instructions in Note 2.
+4. The developer cannot be held responsible (and cannot be held liable) for any problems caused by this mod.
+5. Most of the elements of this mod were created from the suggestions of my diamond cat friends.
+6. This mod was made with game balance in mind, but some people may find the game balance broken. It is recommended to use separate save data.
+7. This page will be updated in the future. Please remember that precautions may change.
