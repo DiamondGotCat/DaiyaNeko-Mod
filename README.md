@@ -1,7 +1,7 @@
 # DaiyaNeko-Mod
 Awesome Mod By DaiyaNeko for Minecraft Forge
 
-日本語(Japanese)のサイトは[こちら](https://sites.google.com/view/daiyaneko-build/minecraft%E3%81%AEmod/daiyaneko-mod)
+日本語(Japanese)のサイトは[こちら](https://sites.google.com/view/daiyaneko-build/minecraft-mod/daiyaneko-mod)
 
 ## description
 Armor, Tools, Biome, and Dimensions!
